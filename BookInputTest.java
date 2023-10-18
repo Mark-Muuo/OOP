@@ -1,7 +1,7 @@
 package classe;
 import java.util.Scanner;
  
-class book {
+public class book {
 	String title;
 	String authour;
 	int numberofpages;
