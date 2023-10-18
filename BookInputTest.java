@@ -1,5 +1,12 @@
 package classe;
 import java.util.Scanner;
+ 
+class book {
+	String title;
+	String authour;
+	int numberofpages;
+}
+
 public class BookInputTest {
 
 	public static void main(String[] args) {
